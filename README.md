@@ -6,10 +6,10 @@ ThoughtNest is a clean, minimal, and mobile-first note-taking app built with **R
 
 ## 📱 Screenshots
 
-![Splash Screen](.noteboo_app/assets/images/splash.png)
+![Splash Screen](assets/images/splash.png)
 
 ### 📝 Create Note Screen
-![Home Screen](.noteboo_app/assets/images/home.png)
+![Home Screen](assets/images/home.png)
 
 ---
 
